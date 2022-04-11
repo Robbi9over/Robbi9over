@@ -6,11 +6,11 @@
 
 ---
 ## Hard Skills
-  - Windows
-  - Java
-  - Python
-  - SQL
-  - Arduino/C
+  - 🪟 Windows
+  - ☕ Java
+  - 🐍 Python
+  - 🗄️ SQL
+  - 🇨 Arduino/C
   - Understanding of HTML/CSS
 
 ## Soft Skills
@@ -25,12 +25,19 @@
   - VS CODE
   - IntelliJ IDEA
   - PyCharm
+---
+### Quotes
+> "Sometimes it's better to leave something alone, to pause, and that's very true of programming." ~ Joyce Wheeler
 
+> "The only way to learn a new programming language is by writing programs in it." ~ Dennis Ritchie
 ---
 ### Contact via
-  - Mail: schaefer-robin@outlook.com
+  - Mail: schaefer-robin@outlook.de
   - Twitter: @Robbi9over
   - Discord: Robbi9over#3293
+
+
+
 <!--
 **Robbi9over/Robbi9over** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
