@@ -1,7 +1,7 @@
 # Hi there 👋
 ### I'm Robin 
 #### Student: Abitur23
-
+#### A collection of my coolest projects.
 *Looking forward to become a software developer 🖥️*
 
 ---
@@ -30,6 +30,8 @@
 > "Sometimes it's better to leave something alone, to pause, and that's very true of programming." ~ Joyce Wheeler
 
 > "The only way to learn a new programming language is by writing programs in it." ~ Dennis Ritchie
+
+> "Code is like humor. When you have to explain it, it’s bad." ~ Cory House
 ---
 ### Contact via
   - Mail: schaefer-robin@outlook.de
