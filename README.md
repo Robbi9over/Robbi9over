@@ -1,10 +1,13 @@
 # Hi there 👋
-### I'm Robin 
+### I'm Robin
 #### Student: Abitur23
-#### A collection of my coolest projects.
+
+**A selected collection of my coolest projects.**
+
 *Looking forward to become a software developer 🖥️*
 
 ---
+
 ## Hard Skills
   - 🪟 Windows
   - ☕ Java
@@ -20,25 +23,29 @@
   - reliable
   - dedicated
   - disciplined
+
 ---
+
 ### Tools
   - VS CODE
   - IntelliJ IDEA
   - PyCharm
+
 ---
+
 ### Quotes
 > "Sometimes it's better to leave something alone, to pause, and that's very true of programming." ~ Joyce Wheeler
 
 > "The only way to learn a new programming language is by writing programs in it." ~ Dennis Ritchie
 
 > "Code is like humor. When you have to explain it, it’s bad." ~ Cory House
+
 ---
+
 ### Contact via
-  - Mail: schaefer-robin@outlook.de
-  - Twitter: @Robbi9over
-  - Discord: Robbi9over#3293
-
-
+  - **Mail:** schaefer-robin@outlook.de
+  - **Twitter:** @Robbi9over
+  - **Discord:** Robbi9over#3293
 
 <!--
 **Robbi9over/Robbi9over** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
