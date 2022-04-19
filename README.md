@@ -1,20 +1,49 @@
 # Hi there 👋
-### I'm Robin
-#### Student: Abitur23
+### I'm Robin 🙋‍♂️
+### Student: Abitur23
 
 **A selected collection of my coolest projects.**
 
-*Looking forward to become a software developer 🖥️*
+*Random guy who enjoys coding (most of the time 🥴).*
 
+``` java
+// The algorithm of life 🚀
+
+boolean dead;
+int stressLevel; // 1-100
+Human me = new Human();
+
+while (!dead){
+  me.eat();
+  me.sleep();
+  me.code();
+  if (stressLevel < 30){
+    me.game();
+    }
+}
+```
 ---
 
+# 📖 Skills
+
 ## Hard Skills
-  - 🪟 Windows
+  - 🪟 Team Windows
   - ☕ Java
   - 🐍 Python
   - 🗄️ SQL
   - 🇨 Arduino/C
-  - Understanding of HTML/CSS
+  - 📄 Understanding of HTML/CSS
+
+### Interested in / Learn next
+  - 🍃 Spring Boot
+  - 📱 Flutter
+
+## 🛠️ Tools
+  - Git
+  - VS CODE
+  - IntelliJ IDEA
+  - PyCharm
+  - Notion
 
 ## Soft Skills
   - patient
@@ -26,14 +55,7 @@
 
 ---
 
-### Tools
-  - VS CODE
-  - IntelliJ IDEA
-  - PyCharm
-
----
-
-### Quotes
+# 💫 Quotes
 > "Sometimes it's better to leave something alone, to pause, and that's very true of programming." ~ Joyce Wheeler
 
 > "The only way to learn a new programming language is by writing programs in it." ~ Dennis Ritchie
@@ -42,10 +64,12 @@
 
 ---
 
-### Contact via
+# 📨 Contact via
   - **Mail:** schaefer-robin@outlook.de
   - **Twitter:** @Robbi9over
   - **Discord:** Robbi9over#3293
+
+
 
 <!--
 **Robbi9over/Robbi9over** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
