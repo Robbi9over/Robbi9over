@@ -22,17 +22,16 @@ while (!dead){
     }
 }
 ```
----
 
 # 📖 Skills
 
 ## Hard Skills
-  - 🪟 Team Windows
   - ☕ Java
   - 🐍 Python
   - 🗄️ SQL
   - 🇨 Arduino/C
   - 📄 Understanding of HTML/CSS
+  - 🪟 Team Windows
 
 ### Interested in / Learn next
   - 🍃 Spring Boot
@@ -50,10 +49,6 @@ while (!dead){
   - high frustration tolerance
   - analytical thinking
   - reliable
-  - dedicated
-  - disciplined
-
----
 
 # 💫 Quotes
 > "Sometimes it's better to leave something alone, to pause, and that's very true of programming." ~ Joyce Wheeler
@@ -62,7 +57,7 @@ while (!dead){
 
 > "Code is like humor. When you have to explain it, it’s bad." ~ Cory House
 
----
+> "You need a bit frustration to appreciate your success." ~ me :)
 
 # 📨 Contact via
   - **Mail:** schaefer-robin@outlook.de
