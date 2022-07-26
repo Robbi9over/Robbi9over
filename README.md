@@ -59,6 +59,10 @@ while (!dead){
 
 > "You need a bit frustration to appreciate your success." ~ me :)
 
+# 🔗 Links
+  - https://www.codewars.com/users/Robbi9over
+  - https://leetcode.com/Robbi9over/
+
 # 📨 Contact via
   - **Mail:** schaefer-robin@outlook.de
   - **Twitter:** @Robbi9over
