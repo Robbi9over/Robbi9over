@@ -35,7 +35,7 @@ while (!dead){
 
 ### Interested in / Learn next
   - 🍃 Spring Boot
-  - 📱 Flutter
+  - 📱 Flutter(+Dart)
 
 ## 🛠️ Tools
   - Git
