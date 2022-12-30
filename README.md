@@ -43,6 +43,7 @@ while (!dead){
   - IntelliJ IDEA
   - PyCharm
   - Notion
+  - Obsidian
 
 ## Soft Skills
   - patient
