@@ -51,7 +51,7 @@ while (!dead){
   - analytical thinking
   - reliable
 
-# My open source contributions
+# 🚀 My open source contributions
 1. [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui/releases/tag/v1.2.2) ([#603](https://github.com/zauberzeug/nicegui/issues/603))
 
 # 💫 Quotes
