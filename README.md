@@ -72,7 +72,8 @@ while (!dead){
   - **Twitter:** @Robbi9over
   - **Discord:** Robbi9over#3293
 
-
+# ❤️ Support
+This is my paypal link: https://www.paypal.com/paypalme/RbnSchfr
 
 <!--
 **Robbi9over/Robbi9over** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
