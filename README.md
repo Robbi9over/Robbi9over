@@ -53,6 +53,7 @@ while (!dead){
 
 # 🚀 My open source contributions
 1. [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui/releases/tag/v1.2.2) ([#603](https://github.com/zauberzeug/nicegui/issues/603))
+2. [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) ([#405](https://github.com/markodenic/web-development-resources/pull/405))
 
 # 💫 Quotes
 > "Sometimes it's better to leave something alone, to pause, and that's very true of programming." ~ Joyce Wheeler
